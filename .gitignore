@@ -1,0 +1,7 @@
+# projects
+projects/
+temp/
+tmp/
+
+# system
+**/.DS_Store
